@@ -1,5 +1,9 @@
 # cp-.NET
 
+## RM557356 - Alex Ribeiro
+## RM559433 - Felipe Damasceno
+## RM560306 - Natalia dos Santos
+
 📊 Modelo Entidade-Relacionamento (MER)
 
 Este repositório contém o Modelo Entidade-Relacionamento (MER) de um sistema simples de gestão de pedidos.
